@@ -3,7 +3,7 @@
 This assignment is a very basic application
 for uploading video to a cloud service and managing the video's metadata and its content.
 This covers the core knowledge needed to create much more sophisticated cloud services.
-There are fours HTTP APIs in this:
+There are four HTTP APIs in this:
  
 GET /video
    - Returns the list of videos that have been added to the
